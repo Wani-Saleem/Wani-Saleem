@@ -62,8 +62,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wani-Saleem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true&custom_title=Technologies" height="166" alt="languages graph"  />
 </div>
 
+###
 
 <br clear="both">
 
-![Snake animation](https://github.com/{{your_username}}/{{Wani-Saleem}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+<img src="https://raw.githubusercontent.com/Wani-Saleem/Wani-Saleem/output/snake.svg" alt="Snake animation" />
 
+###
