@@ -1,34 +1,28 @@
 <h1 align="center">Hi 👋, I'm Saleem Yousuf</h1>
 
-<h3 align="center">
-📱 Mobile Application Developer | React Native | React.js | TypeScript | GraphQL | Redux Toolkit
-</h3>
+<h3 align="center">📱 Mobile Application Developer</h3>
 
 <p align="center">
-Building scalable Mobile & Web applications with modern technologies, clean architecture, and high-performance user experiences.
+React Native • React.js • TypeScript • GraphQL • Redux Toolkit • Firebase
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Mobile+Application+Developer;React+Native+Developer;React.js+Developer;TypeScript+Enthusiast;Always+Learning+New+Technologies+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Wani-Saleem&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+Building scalable mobile and web applications with clean architecture, modern UI, and high-performance user experiences.
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 💼 Software Engineer with **2+ years** of experience
+- 💼 Software Engineer with **2+ years** of professional experience
 - 📱 Mobile Application Developer specializing in **React Native**
-- 🌐 Building scalable Web Applications using **React.js**
-- ⚡ Passionate about writing clean, reusable and maintainable code
-- 🔥 Experienced with **Redux Toolkit**, **Zustand**, **GraphQL**, **Firebase**, **REST APIs**
-- 🔐 Worked on Authentication, RBAC, Deep Linking & Push Notifications
-- 🚀 Interested in Performance Optimization & Mobile Architecture
+- 🌐 Experienced in building scalable **React.js** applications
+- ⚡ Passionate about writing clean, reusable, and maintainable code
+- 🔥 Experienced with **Redux Toolkit**, **Zustand**, **GraphQL**, **Firebase**, **REST APIs**, and **JWT Authentication**
+- 🔐 Worked on secure authentication, RBAC, Deep Linking, Push Notifications, and API integrations
+- 🚀 Passionate about performance optimization and scalable mobile architecture
 - 🌱 Currently learning **RTK Query**, **System Design**, **CI/CD**, and **Native Modules**
-- 💬 Ask me about **React Native**, **React.js**, **TypeScript**, and **Redux Toolkit**
+- 💬 Ask me about **React Native**, **React.js**, **TypeScript**, **JavaScript**, and **Redux Toolkit**
 
 ---
 
@@ -40,16 +34,16 @@ Building scalable Mobile & Web applications with modern technologies, clean arch
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/saleemyousuf/" target="_blank">
+<a href="https://www.linkedin.com/in/saleemyousuf/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/wani_saleem5/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Wani-Saleem">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/wani_saleem5/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/salim.vani.1">
@@ -62,26 +56,26 @@ Building scalable Mobile & Web applications with modern technologies, clean arch
 
 # 💻 Tech Stack
 
-### 🚀 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap"/>
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 
 <p>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
-### 🗄️ Backend & APIs
+### Backend & APIs
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,firebase"/>
@@ -89,7 +83,7 @@ Building scalable Mobile & Web applications with modern technologies, clean arch
 <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white"/>
 </p>
 
-### 🛠️ Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -99,100 +93,75 @@ Building scalable Mobile & Web applications with modern technologies, clean arch
 
 ---
 
-# 🧠 Currently Learning
-
-- Redux Toolkit
-- RTK Query
-- Advanced TypeScript
-- React Native Performance Optimization
-- CI/CD
-- System Design
-- Native Modules
-- Mobile Architecture
-
----
-
 # 🚀 Featured Projects
 
 ## 🌦️ SkyCast
 
-Weather Application built with
+Weather application built with:
 
 - React Native
 - Expo
 - TypeScript
-- Zustand
 - Firebase Authentication
+- Zustand
 
 ---
 
 ## 📝 Redux Toolkit Learning
 
-Projects Included
+A hands-on learning project covering:
 
-- Counter Application
-- Todo CRUD
-- createSlice
 - configureStore
-- useSelector
-- useDispatch
+- createSlice
+- Counter App
+- Todo CRUD
 - TypeScript Integration
+- Redux Flow
 
 ---
 
 ## 💳 FinTech Applications
 
-Production applications featuring
+Production-grade mobile applications featuring:
 
 - React Native
 - GraphQL
 - REST APIs
 - JWT Authentication
-- RBAC
+- Role-Based Access Control (RBAC)
 - Push Notifications
 - Deep Linking
+- Performance Optimization
 
 ---
 
-# 📊 GitHub Statistics
+# 📚 Currently Learning
 
-<p align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=Wani-Saleem&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wani-Saleem&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wani-Saleem&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> **Enable the GitHub Action to generate the snake animation before using this image.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Wani-Saleem/Wani-Saleem/output/snake.svg" alt="Snake animation"/>
-
-</p>
+- Redux Toolkit
+- RTK Query
+- Advanced TypeScript
+- React Native Performance Optimization
+- Native Modules
+- CI/CD
+- System Design
+- Mobile Architecture
 
 ---
 
-# 💡 Quote
+# 🎯 Goals for 2026
 
-<div align="center">
-
-> **"Code is not just about making things work—it's about making them scalable, maintainable, and impactful."**
-
-</div>
+- ✅ Master React Native
+- ✅ Contribute to Open Source
+- ✅ Learn Native Android & iOS Modules
+- ✅ Build High-Performance Mobile Applications
+- ✅ Deep Dive into System Design
+- ✅ Strengthen CI/CD for Mobile Apps
 
 ---
 
 # 🤝 Let's Collaborate
 
-I'm always interested in collaborating on exciting projects involving:
+I'm always interested in collaborating on projects involving:
 
 - 📱 React Native
 - ⚛️ React.js
@@ -201,7 +170,7 @@ I'm always interested in collaborating on exciting projects involving:
 - ⚡ TypeScript
 - 🚀 Open Source
 
-Feel free to connect with me!
+Feel free to reach out!
 
 ---
 
@@ -209,8 +178,8 @@ Feel free to connect with me!
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+*"Building impactful mobile experiences, one commit at a time."* 🚀
 
-🚀 Happy Coding!
+If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
